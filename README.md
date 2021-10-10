@@ -1,9 +1,5 @@
-# Final Project WebDesign: No Planet B
-Final Project WebDesign 2020-21 | Associate Degree in Computer Programming | Artevelde University of Applied Sciences
+# No Planet B
 
-|           |                                  |
-| --------- | -------------------------------- |
-| Firstname | Jan                              |
-| Lastname  | Deschacht                        |
-| Gender    | :male_sign:                      |
-| Email     | jandesch@student.arteveldehs.be |
+A final project for WebDesign in Artevelde. This one page website was made to test our CSS and HTML skills.
+
+**Technologies user:** HTML and CSS
